@@ -25,6 +25,15 @@ dist/
 
 # JetBrains IDE
 .idea/
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+.navigation
+captures/
+output.json
+
 
 # Unit test reports
 TEST*.xml
@@ -47,4 +56,5 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
 
